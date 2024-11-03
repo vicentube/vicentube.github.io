@@ -1,4 +1,5 @@
 baseURL = 'https://vicentube.com/'
-languageCode = 'es-es'
+languageCode = 'es-ES'
+defaultContentLanguage = 'es'
 title = 'Vicente Úbeda'
 theme = 'stack'
