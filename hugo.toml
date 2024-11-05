@@ -4,5 +4,8 @@ defaultContentLanguage = 'es'
 title = 'Vicente Úbeda'
 theme = 'stack'
 
-[params]
-favicon = '/favicon.ico'
+[Params]
+favicon = 'favicon.ico'
+
+[Params.Sidebar]
+avatar.src = 'img/avatar.jpg'
