@@ -3,3 +3,6 @@ languageCode = 'es-ES'
 defaultContentLanguage = 'es'
 title = 'Vicente Úbeda'
 theme = 'stack'
+
+[params]
+favicon = '/favicon.ico'
